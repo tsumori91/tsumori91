@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hey there, I'm Ariel 👋
+### UBC grad living in Vancouver
 
+
+
+
+### 📫 Stack Experience
+- Javascript/Typescript/React/React Native
+- Node/Express
+- Firebase/Mongo
 <!--
 **tsumori91/tsumori91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
